@@ -1,4 +1,4 @@
-# App - App recipes
+# App - App devflix
 
 app desenvolvido para testa habilidades ,fazendo uma copia do pagina da netflix.
  
